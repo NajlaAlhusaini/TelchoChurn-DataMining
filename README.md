@@ -72,7 +72,7 @@ Customer clustering also provides valuable insights into customer segments, help
 
 ### Source Code
 
-📂 [Source Code](Source%20Code)
+ [Source Code](Source%20Code)
 
 Includes:
 
@@ -84,7 +84,7 @@ Includes:
 
 ### Dataset
 
-📂 [Dataset](DataSet)
+ [Dataset](DataSet)
 
 Includes:
 
@@ -95,13 +95,13 @@ Includes:
 
 ### Presentation
 
-📄 [TelcoChurnPresentation.pdf](TelcoChurnPresentation.pdf)
+ [TelcoChurnPresentation.pdf](TelcoChurnPresentation.pdf)
 
 ---
 
 ### Research Paper
 
-📄 [Research paper.pdf](Research%20paper.pdf)
+ [Research paper.pdf](Research%20paper.pdf)
 
 ---
 
