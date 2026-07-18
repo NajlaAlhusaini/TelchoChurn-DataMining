@@ -125,6 +125,6 @@ Through this project, I gained practical experience in:
 
 ## Course Information
 
-**Course:** Data Mining
+**Course:** Data Mining - IT326
 
 **Institution:** King Saud University
